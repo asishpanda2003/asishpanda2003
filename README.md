@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN stack,Next.js**
 
-- 👨‍💻 All of my projects are available at [asishpanda.netlify.app](asishpanda.netlify.app)
+- 👨‍💻 All of my projects are available at GitHub
 
 - 💬 Ask me about **mern stack**
 
